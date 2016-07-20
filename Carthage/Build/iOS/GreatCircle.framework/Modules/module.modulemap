@@ -1,0 +1,6 @@
+framework module GreatCircle {
+  umbrella header "GreatCircle.h"
+
+  export *
+  module * { export * }
+}
